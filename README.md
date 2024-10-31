@@ -9,9 +9,18 @@
 </pre>
 
 ## Repo stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenya52&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenya52&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenya52&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xenya52&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xenya52&theme=dracula&utcOffset=8)
+<div align="center" width="100%">
+ <p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenya52&theme=dracula" alt=""
+   align="center" width="67%" height="67%" />
+ </p>
+ <p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenya52&theme=dracula" alt=""
+   width="33%" height="33%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenya52&theme=dracula" alt=""
+   width="33%" height="33%" /> 
+ </p>
+</div>
 
 ### Interested
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
