@@ -12,13 +12,13 @@
 <div align="center" width="100%">
  <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenya52&theme=dracula" alt=""
-   align="center" width="67%" height="67%" />
+   align="center" width="88%" />
  </p>
  <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenya52&theme=dracula" alt=""
-   width="33%" height="33%" />
+   width="44%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenya52&theme=dracula" alt=""
-   width="33%" height="33%" /> 
+   width="44%" /> 
  </p>
 </div>
 
