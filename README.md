@@ -22,7 +22,7 @@
  </p>
 </div>
 
-### Interested
+### interests
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -35,12 +35,11 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 
-### Experience
+### experience
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -49,3 +48,6 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+
+### know-how
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
