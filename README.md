@@ -60,3 +60,10 @@ Trained with
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
+
+Coding challenges
+-------------
+<div align="center" width="100%">
+ <img src="https://github.r2v.ch/codewars?user=xenya52&stroke=%23bb432c" 
+  align="center" width="50%"/>
+</div>
