@@ -6,7 +6,7 @@ About myself
  🤓 10101 years old 💫
  🎨 I make Pixelart 🌟
  👩‍💻 Loves to code in Rust ✨
- 🥰 Alwas hungry and ready for crazy projects 💫
+ 💡 Always brainstorming, never backing down 🚀
  🫠 Easy to inspire when it comes to electrical engineering ⭐️
 </pre>
 
