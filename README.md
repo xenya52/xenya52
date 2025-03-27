@@ -10,26 +10,11 @@ About myself
  🫠 Easy to inspire when it comes to electrical engineering ⭐️
 </pre>
 
-About my repository
--------------
-
-<div align="center" width="100%">
- <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenya52&theme=dracula" alt=""
-   align="center" width="88%" />
- </p>
- <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenya52&theme=dracula" alt=""
-   width="44%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenya52&theme=dracula" alt=""
-   width="44%" /> 
- </p>
-</div>
-
-Interests
+Tech stack
 -------------
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring-boot)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
@@ -53,7 +38,24 @@ Interests
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 
-Coding challenges
+
+About my repository
+-------------
+
+<div align="center" width="100%">
+ <p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenya52&theme=dracula" alt=""
+   align="center" width="88%" />
+ </p>
+ <p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenya52&theme=dracula" alt=""
+   width="44%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenya52&theme=dracula" alt=""
+   width="44%" /> 
+ </p>
+</div>
+
+Coding Challenge
 -------------
 <div align="center" width="100%">
  <img src="https://github.r2v.ch/codewars?user=xenya52&stroke=%23bb432c" 
