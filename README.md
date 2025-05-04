@@ -15,12 +15,7 @@ Tech stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring-boot)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
@@ -36,7 +31,6 @@ Tech stack
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 
 
