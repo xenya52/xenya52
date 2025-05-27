@@ -3,9 +3,9 @@ About myself
 
 <pre>
  💁‍♀️ My name is Lucy ✨
- 🤓 10101 years old 💫
  🎨 I make Pixelart 🌟
- 👩‍💻 Loves to code in Rust ✨
+ 👩‍💻 Loves to code in Cpp, Java and Rust ✨
+ 🤓 IT specialist application development 💫
  💡 Always brainstorming, never backing down 🚀
  🫠 Easy to inspire when it comes to electrical engineering ⭐️
 </pre>
