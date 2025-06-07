@@ -4,6 +4,7 @@ About myself
 <pre>
  💁‍♀️ My name is Lucy ✨
  🎨 I make Pixelart 🌟
+    Clearly a motivated Junior Dev
  👩‍💻 Loves to code in Cpp, Java and Rust ✨
  🤓 IT specialist application development 💫
  💡 Always brainstorming, never backing down 🚀
