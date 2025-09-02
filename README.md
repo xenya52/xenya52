@@ -10,7 +10,7 @@ About myself
 Tech stack
 -------------
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -52,3 +52,4 @@ Coding Challenge
  <img src="https://github.r2v.ch/codewars?user=xenya52&stroke=%23bb432c" 
   align="center" width="50%"/>
 </div>
+
