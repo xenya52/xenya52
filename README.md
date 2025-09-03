@@ -21,7 +21,6 @@ Tech stack
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=maven)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
