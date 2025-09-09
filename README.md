@@ -12,9 +12,6 @@ Tech stack
 
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
