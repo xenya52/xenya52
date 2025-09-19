@@ -4,7 +4,7 @@ About myself
 <pre>
  💁‍♀️ My name is Lucy
  🎨 I make Pixelart and Chiptune
- 👩‍💻 Loves to code in Cpp, Java and Rust 
+ 👩‍💻 Loves to code in Java, Golang and Rust 
 </pre>
 
 Tech stack
