@@ -4,7 +4,7 @@ About myself
 <pre>
  💁‍♀️ My name is Lucy
  🎨 I make Pixelart and Chiptune
- 👩‍💻 Loves to code in Java, Golang and Rust 
+ 👩‍💻 Loves to code and learn every day
 </pre>
 
 <div align="center" width="100%">
@@ -60,6 +60,7 @@ Coding Challenge
  <img src="https://github.r2v.ch/codewars?user=xenya52&stroke=%23bb432c" 
   align="center" width="50%"/>
 </div>
+
 
 
 
