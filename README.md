@@ -2,9 +2,20 @@ About myself
 -------------
 
 <pre>
- 💁‍♀️ My name is Lucy
- 🎨 I make Pixelart and Chiptune
- 👩‍💻 Loves to code and learn every day
+         ░███        ░███        
+  ░██   ░██░██      ░██░██   ░██ 
+   ░██ ░██  ░██    ░██  ░██ ░██  
+    ░██                    ░██   
+   ░██                      ░██  
+  ░██                        ░██ 
+               ░██               
+
+  💁‍♀️ Hi, I’m Lucy — aka xenya52
+  🎨 I craft pixel art and chiptune soundtracks  
+  👩‍💻 Passionate about coding, learning, and building cool things every day
+<!-- 
+  🥚 Small pixels, big dreams... 
+-->
 </pre>
 
 <div align="center" width="100%">
@@ -59,6 +70,7 @@ Coding Challenge
  <img src="https://github.r2v.ch/codewars?user=xenya52&stroke=%23bb432c" 
   align="center" width="50%"/>
 </div>
+
 
 
 
