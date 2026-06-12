@@ -69,11 +69,8 @@ About my repository
 Coding Challenge
 -------------
 <div align="center" width="100%">
- <img src="https://github.r2v.ch/codewars?user=xenya52&stroke=%23bb432c" 
-  align="center" width="50%"/>
+  <img src="https://www.codewars.com/users/xenya52/badges/large" alt="" align="center" width="50%"/>
 </div>
-
-
 
 
 
