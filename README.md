@@ -2,16 +2,9 @@ About myself
 -------------
 
 <pre>
-         ░███        ░███        
-  ░██   ░██░██      ░██░██   ░██ 
-   ░██ ░██  ░██    ░██  ░██ ░██  
-    ░██                    ░██   
-   ░██                      ░██  
-  ░██                        ░██ 
-               ░██               
-
   💁‍♀️ Hi, I’m Lucy — aka xenya52
-  🎨 I craft pixel art and chiptune soundtracks  
+  🎨 I craft pixel art and chiptune soundtracks
+  📝 Writing and learning new languages is a big deal for me
   👩‍💻 Passionate about coding, learning, and building cool things every day
 <!-- 
   🥚 Small pixels, big dreams... 
