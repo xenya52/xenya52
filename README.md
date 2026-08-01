@@ -43,7 +43,7 @@ Tech stack
 <!--Wonderful tool, generated with https://marwin1991.github.io/profile-technology-icons/-->
 </div>
 
-About my repository
+<!--About my repository (Seems not available right now
 -------------
 
 <div align="center" width="100%">
@@ -58,6 +58,7 @@ About my repository
    width="44%" /> 
  </p>
 </div>
+-->
 
 Coding Challenge
 -------------
