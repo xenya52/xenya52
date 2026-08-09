@@ -2,14 +2,14 @@ About myself
 -------------
 
 <pre>
-  💁‍♀️ Hi, I’m Lucy — aka xenya52
-  🎨 I craft pixel art and chiptune soundtracks
-  📝 Writing and learning new languages is a big deal for me
-  👩‍💻 Passionate about coding, learning, and building cool things every day
+ 🎀 𝐻𝒾, 𝐼’𝓂 𝐿𝓊𝒸𝓎 — 𝒶𝓀𝒶 𝓍𝑒𝓃𝓎𝒶𝟻𝟤
+ 🎨 𝐼 𝒸𝓇𝒶𝒻𝓉 𝓅𝒾𝓍𝑒𝓁 𝒶𝓇𝓉 𝒶𝓃𝒹 𝒸𝒽𝒾𝓅𝓉𝓊𝓃𝑒 𝓈𝑜𝓊𝓃𝒹𝓉𝓇𝒶𝒸𝓀𝓈 🎧
+ 📜 𝒲𝓇𝒾𝓉𝒾𝓃𝑔 𝒶𝓃𝒹 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝓃𝑒𝓌 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒾𝓈 𝒶 𝒷𝒾𝑔 𝒹𝑒𝒶𝓁 𝒻𝑜𝓇 𝓂𝑒 ✨
+ 💻 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒶𝒷𝑜𝓊𝓉 𝒸𝑜𝒹𝒾𝓃𝑔, 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔, 𝒶𝓃𝒹 𝒷𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝒸𝑜𝑜𝓁 𝓉𝒽𝒾𝓃𝑔𝓈 𝑒𝓋𝑒𝓇𝓎 𝒹𝒶𝓎 🩰
+</pre>
 <!-- 
   🥚 Small pixels, big dreams... 
 -->
-</pre>
 
 <div align="center" width="100%">
 	<img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d4aWs1aDFtdXJpZjhzbG50OGQ2bG44M3U2M2l0YmZybTh2ZmRuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif align="center" width="44%">
