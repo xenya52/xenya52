@@ -12,6 +12,7 @@ About myself
 -->
 
 <div align="center" width="100%">
+	<img src=https://media.tenor.com/4a2lZUchzM0AAAAM/frieren-frieren-magic.gif align="center" width="31.5%">
 	<img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d4aWs1aDFtdXJpZjhzbG50OGQ2bG44M3U2M2l0YmZybTh2ZmRuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif align="center" width="44%">
 </div>
 
