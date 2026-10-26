@@ -63,7 +63,8 @@ Tech stack
 Coding Challenge
 -------------
 <div align="center" width="100%">
-  <img src="https://www.codewars.com/users/xenya52/badges/large" alt="" align="center" width="50%"/>
+  <img src="https://www.codewars.com/users/xenya52/badges/large" alt="" align="center" width="30%"/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=xenya52&theme=dark" alt="LeetCode Stats" align="center" width="30%"/>
 </div>
 
 
