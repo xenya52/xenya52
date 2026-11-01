@@ -16,6 +16,16 @@ About myself
 	<img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d4aWs1aDFtdXJpZjhzbG50OGQ2bG44M3U2M2l0YmZybTh2ZmRuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif align="center" width="44%">
 </div>
 
+Contributions
+-------------
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xenya52/xenya52/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/xenya52/xenya52/output/github-snake.svg" alt="Snake animation of my GitHub contributions" width="88%" />
+  </picture>
+</div>
+
 Tech stack
 -------------
 
@@ -43,22 +53,17 @@ Tech stack
 <!--Wonderful tool, generated with https://marwin1991.github.io/profile-technology-icons/-->
 </div>
 
-<!--About my repository (Seems not available right now
+GitHub stats
 -------------
 
-<div align="center" width="100%">
- <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenya52&theme=dracula" alt=""
-   align="center" width="88%" />
- </p>
- <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenya52&theme=dracula" alt=""
-   width="44%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenya52&theme=dracula" alt=""
-   width="44%" /> 
- </p>
+<div align="center">
+  <p>
+    <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="GitHub profile summary" width="88%" />
+  </p>
+  <p>
+    <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Languages used in my repositories" width="44%" />
+  </p>
 </div>
--->
 
 Coding Challenge
 -------------
