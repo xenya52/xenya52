@@ -14,12 +14,48 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check repository secret
+        env:
+          PROFILE_TOKEN: ${{ secrets.XENYA_GITHUB_PROFILE_SUMMARY || secrets.SUMMARY_GITHUB_TOKEN }}
+        run: |
+          if [ -z "$PROFILE_TOKEN" ]; then
+            echo '::error::Add the token as Actions secret XENYA_GITHUB_PROFILE_SUMMARY.'
+            exit 1
+          fi
+
       - name: Generate Dracula cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.XENYA_GITHUB_PROFILE_SUMMARY || secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: master
           THEME: dracula
-          TIME_ZONE: Europe/Berlin
+          NAME: xenya52
+          AUTO_PUSH: false
+
+      - name: Publish only the cards shown in the README
+        shell: bash
+        run: |
+          set -euo pipefail
+          cards='profile-summary-card-output/dracula'
+          saved="$RUNNER_TEMP/profile-cards"
+          mkdir -p "$saved"
+          cp "$cards/0-profile-details.svg" "$saved/"
+          cp "$cards/1-repos-per-language.svg" "$saved/"
+
+          git reset --hard "$GITHUB_SHA"
+          git clean -fd -- profile-summary-card-output
+          git rm -r --ignore-unmatch -- profile-summary-card-output
+          mkdir -p "$cards"
+          cp "$saved/0-profile-details.svg" "$cards/"
+          cp "$saved/1-repos-per-language.svg" "$cards/"
+          git add -- profile-summary-card-output
+
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'Update public profile cards'
+          git push origin HEAD:master
