@@ -24,6 +24,10 @@ Contributions
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xenya52/xenya52/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/xenya52/xenya52/output/github-snake.svg" alt="Snake animation of my GitHub contributions" width="88%" />
   </picture>
+  <div align="center">
+    <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="GitHub profile summary" width="50%" />
+    <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Languages used in my repositories" width="25%" />
+  </div>
 </div>
 
 Tech stack
@@ -53,23 +57,15 @@ Tech stack
 <!--Wonderful tool, generated with https://marwin1991.github.io/profile-technology-icons/-->
 </div>
 
-GitHub stats
--------------
-
-<div align="center">
-  <p>
-    <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="GitHub profile summary" width="88%" />
-  </p>
-  <p>
-    <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Languages used in my repositories" width="44%" />
-  </p>
-</div>
-
-Coding Challenge
+Generic problem solving
 -------------
 <div align="center" width="100%">
-  <img src="https://www.codewars.com/users/xenya52/badges/large" alt="" align="center" width="30%"/>
-  <img src="https://leetcode-stats-six.vercel.app/api?username=xenya52&theme=dark" alt="LeetCode Stats" align="center" width="30%"/>
+  <p>
+    <img src="https://www.codewars.com/users/xenya52/badges/large" alt="" align="center" width="25%"/>
+  </p>
+  <p>
+    <img src="https://leetcode-stats-six.vercel.app/api?username=xenya52&theme=dark" alt="LeetCode Stats" align="center" width="25%"/>
+  </p>
 </div>
 
 
